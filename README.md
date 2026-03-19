@@ -1,31 +1,38 @@
----
-icon: hand-wave
----
+# Welcome to 1 of 1 Servers
 
-# 1of1 Scripts
+<figure><img src=".gitbook/assets/1of1logo.png" alt=""><figcaption></figcaption></figure>
 
-Thank you for visiting 1of1 Scripts, your destination for high-quality, unique FiveM resources that set your server apart from the rest.
+## **A Message from Our CEO**
 
-### **Why Choose 1of1 Scripts?**
+At 1of1 Servers, we’re proud to provide top-tier hosting solutions for gamers, developers, and creators but what you might not know is that this company started as a small side project and a friendly bet. Our COO, Christian, once mentioned that he’d always wanted to start a hosting company. At the time, it seemed like a fun idea to explore, so he jokingly challenged me to make it happen. What started as a lighthearted conversation quickly turned into a full-fledged project as we realized just how badly the hosting world needed change! Especially for the gaming and FiveM communities we were already a part of.
 
-At 1of1 Scripts, we believe every server deserves tools that are as unique as their community. Our resources are crafted with attention to detail, performance optimization, and seamless integration in mind. Whether you're running a roleplay server, a racing community, or anything in between, our scripts are designed to enhance your players' experience while making server management effortless.
+As one of the founders of Project Sloth, one of the largest development communities in the FiveM ecosystem, myself and my team have spent countless hours crafting immersive experiences for our community around the world.
 
-### **What We Offer:**
+Both Christian and I were deeply involved in FiveM development, and we kept running into the same frustrating issues:
 
-✓ **Premium Quality** - Every script is thoroughly tested and optimized for performance\
-✓ **Regular Updates** - We stand behind our products with consistent updates and improvements\
-✓ **Dedicated Support** - Our support team is here to help you get the most out of your purchase\
-✓ **Easy Installation** - Clear documentation and setup guides get you running quickly\
-✓ **Customization Options** - Flexible configurations to match your server's unique style
+* Unreliable Hosting that couldn’t keep up with our demands.
+* Weak DDoS protection that left servers vulnerable.
+* Slow and unresponsive support that made fixing problems a nightmare.
+* A lack of understanding from providers who just didn’t “get” the needs of gamers and developers.
 
-### **Our Commitment:**
+Instead of continuing to deal with these problems, we decided to fix them ourselves. That’s how 1of1 Servers was born not out of a grand master plan, but from our shared desire to build a hosting company that actually worked for people like us.
 
-We're not just selling scripts, we're building tools that empower server owners to create unforgettable experiences. Each resource is developed with real-world server needs in mind, ensuring you get functionality that works when it matters most.
+Since then, we’ve grown into something far bigger than either of us could have imagined. Today, 1of1 Servers stands as a leading provider for developers, gamers, and communities who need reliable, fast, and secure hosting. We’ve built a company that we’re proud to stand behind, and it’s all thanks to our roots as passionate gamers and developers who wanted something better.
 
-Browse our collection and discover how 1of1 Scripts can transform your FiveM server. Have questions? Don't hesitate to reach out through our Discord or ticket system.
+At 1of1 Servers, we’re committed to providing:
 
-**Let's build something extraordinary together.**
+* Unbeatable Performance: With the latest cutting-edge hardware we deliver the power you need for seamless gameplay and development.
+* Rock-Solid Uptime: Your servers are online when you need them because downtime isn’t an option.
+* DDoS Protection Built for Gamers: We know how important stability is, which is why our advanced DDoS protection is tailored to keep your servers running smoothly under any circumstances.
+* A Team That Understands You: Our support team isn’t just here to help, they’re gamers and developers too, so they truly understand what you’re working on.
 
+This company was born from the struggles I experienced as a developer and the solutions I wished existed. At its heart, 1of1 Servers is here to empower creators and gamers alike to focus on what matters most—building amazing things without having to worry about their hosting.
 
+We’re grateful to everyone who has joined us on this journey so far, and we’re excited for what’s to come. Thank you for trusting us to power your projects and we’re here to ensure your experience is nothing less than extraordinary!
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><h4><i class="fa-leaf">:leaf:</i></h4></td><td><strong>Tebex Store</strong></td><td>FiveM Scripts</td><td><a href="https://store.1of1scripts.com">https://store.1of1scripts.com</a></td><td></td><td></td><td><a href="https://github.com/GitbookIO/gitbook-templates/blob/main/product-docs/broken-reference/README.md">https://github.com/GitbookIO/gitbook-templates/blob/main/product-docs/broken-reference/README.md</a></td></tr><tr><td><h4><i class="fa-globe-pointer">:globe-pointer:</i></h4></td><td><strong>Discord</strong></td><td>Join our community!</td><td><a href="https://discord.gg/1of1scripts">https://discord.gg/1of1scripts</a></td><td></td><td></td><td><a href="/broken/pages/QPzbTvC6XsT5gERiU43E">Broken link</a></td></tr></tbody></table>
+Sincerely,
+
+\
+Guillermo G.&#x20;
+
+CEO
