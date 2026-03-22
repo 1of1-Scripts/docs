@@ -5,12 +5,6 @@ icon: circle-info
 
 # How to run Windows MTR
 
-See our Youtube Tutorial below:
-
-{% embed url="https://youtu.be/SToWfa2CUGY?si=92QSwoxkcGaChPV9" %}
-MTR/Traceroute Tutorial
-{% endembed %}
-
 1. **Download**: Grab the Windows MTR tool from [here](https://sourceforge.net/projects/winmtr/).
 2. **Extract**: Unzip the files and navigate to `WinMTR_x64`.
 3. **Launch**: Double-click on `WinMTR.exe` to open it.
