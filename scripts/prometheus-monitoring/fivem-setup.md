@@ -23,7 +23,7 @@ Do NOT rename this script or metrics will not be sent. DO NOT ensure this script
 Open your `server.cfg` file and add the following configuration values.
 
 {% hint style="info" %}
-⚠️ **Important:** Replace the IP, port, and txAdmin path with your actual server details.&#x20;
+⚠️ **Important:** Replace the IP, port, and txAdmin path with your actual server details. Read more below.&#x20;
 {% endhint %}
 
 {% hint style="danger" %}
@@ -40,6 +40,56 @@ set 1of1-ServerIPAndPort "YOUR_SERVER_IP:30120"
 # Set this to your txAdmin default profile folder path
 set txdata_path "C:\Path\To\Your\txAdmin\default\Folder"
 ```
+
+***
+
+### txAdmin Metrics
+
+#### server.cfg
+
+`config.lua` is encrypted, you don't need to change anything there.
+
+#### Create the txData Link
+
+FiveM blocks file access outside the resource folder (due to recent issue on GitHub). You need to create a directory junction once.
+
+**Windows** (run in Command Prompt):
+
+```cmd
+mklink /J "<resource_path>\txdata_link" "<txdata_path>\data"
+```
+
+**Linux:**
+
+```bash
+ln -s <txdata_path>/data <resource_path>/txdata_link
+```
+
+**Example:**
+
+```cmd
+mklink /J "C:\txData\QBCore_ABC123.base\resources\[qb]\1of1-prometheus\txdata_link" "C:\txData\default\data"
+```
+
+To find your resource path, run in the server console:
+
+```
+path 1of1-prometheus
+```
+
+#### Restart
+
+```
+ensure 1of1-prometheus
+```
+
+Console should show:
+
+```
+[1of1 Prometheus] txAdmin data linked successfully via txdata_link/
+```
+
+The junction only needs to be created once. If you move your server or txData folder, re-create it.
 
 ***
 
