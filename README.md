@@ -1,31 +1,27 @@
----
-icon: hand-wave
----
+# Welcome to 1 of 1 Servers
 
-# 1of1 Scripts
+<figure><img src=".gitbook/assets/1of1logo.png" alt=""><figcaption></figcaption></figure>
 
-Thank you for visiting 1of1 Scripts, your destination for high-quality, unique FiveM resources that set your server apart from the rest.
+## **A Letter from Our CEO**
 
-### **Why Choose 1of1 Scripts?**
+1of1 Servers started as a bet.
 
-At 1of1 Scripts, we believe every server deserves tools that are as unique as their community. Our resources are crafted with attention to detail, performance optimization, and seamless integration in mind. Whether you're running a roleplay server, a racing community, or anything in between, our scripts are designed to enhance your players' experience while making server management effortless.
+My friend Christian, who's now our COO, told me one night that he always wanted to start a hosting company. I said I'd build it. He said "yeah, you're not gonna make it." That was all I needed to hear.
 
-### **What We Offer:**
+The first game we hosted was Rust. We were running DDR3 servers and honestly it was awful. But I was already deep in FiveM at that point as one of the founders of Project Sloth (formally known as LJ Labs), one of the biggest open source dev communities in the ecosystem, and I'd been dealing with the same problems every other developer kept running into. Hosting that couldn't handle the load. DDoS protection that folded the second a real attack came in. Support teams that didn't know what FiveM even was. Providers that just didn't get gamers or developers.
 
-✓ **Premium Quality** - Every script is thoroughly tested and optimized for performance\
-✓ **Regular Updates** - We stand behind our products with consistent updates and improvements\
-✓ **Dedicated Support** - Our support team is here to help you get the most out of your purchase\
-✓ **Easy Installation** - Clear documentation and setup guides get you running quickly\
-✓ **Customization Options** - Flexible configurations to match your server's unique style
+So instead of complaining about it we built the company we wished existed.
 
-### **Our Commitment:**
+This was peak COVID. I was living in a one bedroom apartment with Windows sticky notes. Follow ups, DMs, leads, people I'd slid into their DMs asking if they wanted a server. At one point I dragged my mattress out of the bedroom and put it right next to my PC so I could nap between sales and get right back to it. There was no AI back then either. When I didn't know something I had to ask Google, call people, live on Stack Overflow. I learned networking, DDoS, and infrastructure the hard way by getting punched in the face by every problem until I figured it out.
 
-We're not just selling scripts, we're building tools that empower server owners to create unforgettable experiences. Each resource is developed with real-world server needs in mind, ensuring you get functionality that works when it matters most.
+The move that flipped everything was 10G speeds. Six years ago that was a premium nobody else was offering. Competitors were running 500 Mbps, maybe 1G if you were lucky. We rolled out 10G and made almost nothing on those early servers, but it forced everyone else to catch up. That's when 1of1 stopped being a side project and turned into a real company.
 
-Browse our collection and discover how 1of1 Scripts can transform your FiveM server. Have questions? Don't hesitate to reach out through our Discord or ticket system.
+Today we host some of the biggest FiveM servers and gaming communities in the industry. The team's bigger, the infrastructure's bigger, but what we care about hasn't changed. We want our hardware to actually perform, our uptime to actually hold, our DDoS protection to actually work against the attacks that hit game servers, and our support to actually understand what you're building because we've built it ourselves.
 
-**Let's build something extraordinary together.**
+1of1 was built by people who got tired of bad hosting and decided to do something about it. To everyone who trusted us when we were nothing, thank you. We're just getting started.
 
+With love, \
+\
+Guillermo G.&#x20;
 
-
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><h4><i class="fa-leaf">:leaf:</i></h4></td><td><strong>Tebex Store</strong></td><td>FiveM Scripts</td><td><a href="https://store.1of1scripts.com">https://store.1of1scripts.com</a></td><td></td><td></td><td><a href="https://github.com/GitbookIO/gitbook-templates/blob/main/product-docs/broken-reference/README.md">https://github.com/GitbookIO/gitbook-templates/blob/main/product-docs/broken-reference/README.md</a></td></tr><tr><td><h4><i class="fa-globe-pointer">:globe-pointer:</i></h4></td><td><strong>Discord</strong></td><td>Join our community!</td><td><a href="https://discord.gg/1of1scripts">https://discord.gg/1of1scripts</a></td><td></td><td></td><td><a href="/broken/pages/QPzbTvC6XsT5gERiU43E">Broken link</a></td></tr></tbody></table>
+CEO
