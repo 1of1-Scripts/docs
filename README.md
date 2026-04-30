@@ -16,7 +16,14 @@ This was peak COVID. I was living in a one bedroom apartment with Windows sticky
 
 The move that flipped everything was 10G speeds. Six years ago that was a premium nobody else was offering. Competitors were running 500 Mbps, maybe 1G if you were lucky. We rolled out 10G and made almost nothing on those early servers, but it forced everyone else to catch up. That's when 1of1 stopped being a side project and turned into a real company.
 
-Today we host some of the biggest FiveM servers and gaming communities in the industry. The team's bigger, the infrastructure's bigger, but what we care about hasn't changed. We want our hardware to actually perform, our uptime to actually hold, our DDoS protection to actually work against the attacks that hit game servers, and our support to actually understand what you're building because we've built it ourselves.
+Today we host some of the biggest FiveM servers and gaming communities in the industry. The team's bigger, the infrastructure's bigger, but what we care about hasn't changed. We want our hardware to actually perform, our uptime to actually hold, our DDoS protection to actually work against the attacks that hit game servers, and our support to actually understand what you're building because we've built it ourselves.\
+\
+**What we promise hasn't changed since the mattress-next-to-the-PC days:**
+
+* Performance that doesn't compromise. Cutting-edge hardware, real bandwidth, and the kind of headroom your project actually needs.
+* Uptime you can build on. Downtime isn't a setting we tolerate.
+* DDoS protection built for game servers. We know what attacks against FiveM and game servers actually look like, because we've been the ones defending against them for years.
+* Support that speaks your language. Our team isn't reading from a script, they're devs and gamers who've shipped real projects.
 
 1of1 was built by people who got tired of bad hosting and decided to do something about it. To everyone who trusted us when we were nothing, thank you. We're just getting started.
 
